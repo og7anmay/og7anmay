@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate to somebody who is intrested in game development, artificial and emotional intellegence.
 - 📫 You can contact me on instagram -> @7anmayog DM
 - 😄 Pronouns: he/his/him
-- ⚡ Fun fact: i procrastinate...zzzz
+- ⚡ Fun fact: i don't slepppp...zzzz
 - projects - nothing much but 1. I made a matrix calculator it's nice.
                               2. A voice-based realtime AI assistant (base version is completed still fixing issues and bugs YK.
                               3. i am looking forward for a project on game development with unity IG.
